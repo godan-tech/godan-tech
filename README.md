@@ -8,9 +8,9 @@
 <!-- 테크 미니멀리즘 영문 리브랜딩 워딩 (15년 기획 안목 및 G-Stack 자동화의 글로벌 리프레임) -->
 <blockquote>
   <p align="center">
-    <strong>B2B AX Consultant</strong> | <em>15 Years of Strategic Product Planning</em><br/>
-    <strong>Automation Architect</strong> | <em>G-Stack 1-Person Business Operations</em><br/>
-    <strong>Workflow Engineer</strong> | <em>AI Agents & System Integration</em>
+    <strong>AI Agentic Workflows</strong> | <em>Building autonomous systems and LLM integrations</em><br/>
+    <strong>Open Source Developer</strong> | <em>Crafting developer tools and productivity software</em><br/>
+    <strong>Indie Hacker</strong> | <em>Automating ideas into production code</em>
   </p>
 </blockquote>
 
