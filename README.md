@@ -1,6 +1,6 @@
-<!-- 상단 파도 배너 (Capsule Render - GitHub 다크 테마 배경 매칭 및 텍스트 짤림 방지) -->
+<!-- 상단 파도 배너 (Capsule Render - GitHub 다크 테마 배경 매칭 및 AINOTE 리브랜딩) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=DANHA&fontSize=45&fontColor=00ffcc&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=AINOTE&fontSize=45&fontColor=00ffcc&animation=fadeIn" width="100%" />
 </div>
 
 <!-- 실시간 타이핑 한 줄 소개 (Neon Mint 컬러 바인딩) -->
@@ -26,17 +26,17 @@
 ---
 
 ## 📊 My 3D Contribution Space
-<!-- 3D 잔디 노출 -->
+<!-- 3D 잔디 노출 - 엑스박스 방지를 위한 절대경로 치환 -->
 <div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="85%" />
+  <img src="https://raw.githubusercontent.com/godan-tech/godan-tech/main/profile-3d-contrib/profile-green-animate.svg" width="85%" />
 </div>
 
 <br/>
 
 ## 🐍 Contribution Snake
-<!-- 스네이크 게임 노출 -->
+<!-- 스네이크 게임 노출 - 엑스박스 방지를 위한 절대경로 치환 -->
 <div align="center">
-  <img src="./dist/github-snake-dark.svg" width="90%" />
+  <img src="https://raw.githubusercontent.com/godan-tech/godan-tech/main/dist/github-snake-dark.svg" width="90%" />
 </div>
 
 <br/>
