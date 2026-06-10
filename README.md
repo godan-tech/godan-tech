@@ -1,6 +1,6 @@
-<!-- 상단 파도 배너 (Capsule Render) -->
+<!-- 상단 파도 배너 (Capsule Render - GitHub 다크 테마 배경 매칭 및 텍스트 짤림 방지) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f19&height=180&section=header&text=DANHA&fontSize=60&fontColor=00ffcc&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=DANHA&fontSize=45&fontColor=00ffcc&animation=fadeIn" width="100%" />
 </div>
 
 <!-- 실시간 타이핑 한 줄 소개 (Neon Mint 컬러 바인딩) -->
