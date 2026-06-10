@@ -1,23 +1,23 @@
-<!-- 상단 레트로 16비트 보라 배너 (1200x400 크롭 및 보라색 보더 가미) -->
+<!-- 상단 Capsule Render 배너 (godan-tech 고유 영문 브랜딩 및 보라색 테마 #120924 / #B48CFF 조합) -->
 <div align="center">
-  <img src="profile_banner.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=120924&height=180&text=GODAN%20TECH&fontSize=50&fontColor=B48CFF" width="100%" />
 </div>
 
 <br/>
 
-<!-- 테크 미니멀리즘 텍스트 블록쿼트 소개 (엑스박스 방지 및 프로페셔널 톤) -->
+<!-- 테크 미니멀리즘 영문 리브랜딩 워딩 (15년 기획 안목 및 G-Stack 자동화의 글로벌 리프레임) -->
 <blockquote>
   <p align="center">
-    <strong>15년 기획 안목의 B2B AX 컨설턴트</strong><br/>
-    <strong>G-Stack 1인 기업 자동화 설계자</strong><br/>
-    <strong>AI Agentic Workflow 엔지니어</strong>
+    <strong>B2B AX Consultant</strong> | <em>15 Years of Strategic Product Planning</em><br/>
+    <strong>Automation Architect</strong> | <em>G-Stack 1-Person Business Operations</em><br/>
+    <strong>Workflow Engineer</strong> | <em>AI Agents & System Integration</em>
   </p>
 </blockquote>
 
 <br/>
 
 ## 🛠️ Tech Stack & Agent Frameworks
-<!-- 기술 뱃지 (보라색 테마 #6B3FA0 일괄 통일로 디자인 아이덴티티 극대화) -->
+<!-- 기술 뱃지 (보라색 테마 #6B3FA0 일괄 통일) -->
 <div align="left">
   <img src="https://img.shields.io/badge/TypeScript-6B3FA0?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/React-6B3FA0?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -32,7 +32,7 @@
 ---
 
 ## 📊 My 3D Contribution Space
-<!-- 3D 잔디 노출 (보라색/밤하늘 테마인 profile-night-view.svg 적용 및 엑박 방지 상대경로 교정) -->
+<!-- 3D 잔디 노출 (보라색/밤하늘 테마인 profile-night-view.svg 적용 및 상대경로 유지) -->
 <div align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" width="85%" />
 </div>
@@ -40,7 +40,7 @@
 <br/>
 
 ## 🐍 Contribution Snake
-<!-- 스네이크 게임 노출 (엑박 방지 상대경로 교정) -->
+<!-- 스네이크 게임 노출 (상대경로 유지) -->
 <div align="center">
   <img src="dist/github-snake-dark.svg" width="90%" />
 </div>
