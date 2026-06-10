@@ -29,10 +29,10 @@
     </td>
     <!-- 우측 열: 3D Contribution Space + 스네이크 애니메이션 -->
     <td width="65%" valign="top">
-      <h3 style="margin-top: 0;">📊 My 3D Contribution Space</h3>
+      <h3 style="margin-top: 0; color: #B48CFF;">📊 My 3D Contribution Space</h3>
       <img src="profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Grass" />
       <br/><br/>
-      <h3>🐍 Contribution Snake</h3>
+      <h3 style="color: #B48CFF;">🐍 Contribution Snake</h3>
       <img src="dist/github-snake-dark.svg" width="100%" alt="Snake Game" />
     </td>
   </tr>
@@ -42,16 +42,8 @@
 
 <hr style="border: 1px solid #1f242c;"/>
 
-<!-- 하단 섹션: RPG 스타일 트로피 보드 -->
-<h3 align="center" style="color: #B48CFF;">🏆 GitHub Achievements</h3>
-<div align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=godan-tech&theme=tokyonight&column=3&margin-w=15&margin-h=15" width="95%" alt="Trophy Board" />
-</div>
-
-<br/>
-
 <!-- 하단 섹션: Git Stats 카드 -->
-<h3 align="center" style="color: #B48CFF;">📈 Git Stats</h3>
+<h3 align="center" style="color: #B48CFF;">📈 GitHub Metrics</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=godan-tech&show_icons=true&theme=tokyonight&bg_color=0b0f19&title_color=B48CFF&icon_color=B48CFF&text_color=8b949e" width="48%" alt="Stats Card" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godan-tech&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=B48CFF&icon_color=B48CFF&text_color=8b949e" width="48%" alt="Languages Card" />
