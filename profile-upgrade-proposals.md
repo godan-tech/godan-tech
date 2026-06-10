@@ -30,7 +30,7 @@
 * **적용 코드:**
   ```markdown
   <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=godan-tech&theme=tokyonight&column=3&margin-w=15&margin-h=15" width="90%" />
+    <img src="https://github-profile-trophy-tawny.vercel.app/?username=godan-tech&theme=tokyonight&column=3&margin-w=15&margin-h=15" width="90%" />
   </div>
   ```
 
@@ -39,7 +39,7 @@
 * **적용 코드:**
   ```markdown
   <div align="center">
-    <img src="https://count.getloli.com/get/@godan-tech-github?theme=rule34" alt="Moe Counter" />
+    <img src="https://count.getloli.com/get/@godan-tech-github?theme=asoul" alt="Moe Counter" />
   </div>
   ```
 

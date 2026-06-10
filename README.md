@@ -45,7 +45,7 @@
 <!-- 하단 섹션: RPG 스타일 트로피 보드 -->
 <h3 align="center" style="color: #B48CFF;">🏆 GitHub Achievements</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=godan-tech&theme=tokyonight&column=3&margin-w=15&margin-h=15" width="95%" alt="Trophy Board" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=godan-tech&theme=tokyonight&column=3&margin-w=15&margin-h=15" width="95%" alt="Trophy Board" />
 </div>
 
 <br/>
