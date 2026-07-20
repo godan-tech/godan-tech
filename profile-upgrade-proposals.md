@@ -1,7 +1,7 @@
 # 🌌 GitHub Profile Upgrade Proposals (High-End & Retro Cyberpunk)
 
 > **SSoT (Single Source of Truth):** 이 제안서.  
-> **적용 경로:** `/Volumes/T7/workspace/godan-tech/profile-upgrade-proposals.md` (T7 격리 규칙 준수)  
+> **적용 경로:** `/Volumes/GODAN/workspace/godan-tech/profile-upgrade-proposals.md` (T7 격리 규칙 준수)  
 > **목적:** godan-tech 깃허브 프로필을 전세계 하이엔드 개발자 수준으로 보강하기 위한 4대 핵심 컴포넌트 및 코드 명세.
 
 ---
@@ -70,4 +70,4 @@
 
 ## 📈 Next Action Plan
 1. 사용자 피드백을 통해 4대 컴포넌트 중 **도입할 요소 조합**을 선택.
-2. 선택된 설정을 기반으로 `/Volumes/T7/workspace/godan-tech/README.md` 최종 개조 빌드 및 커밋.
+2. 선택된 설정을 기반으로 `/Volumes/GODAN/workspace/godan-tech/README.md` 최종 개조 빌드 및 커밋.

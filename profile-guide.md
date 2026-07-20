@@ -6,7 +6,7 @@
 
 ## 📸 Profile Preview
 
-- **File Path:** [profile.png](file:///Volumes/T7/workspace/godan-tech/profile.png)
+- **File Path:** [profile.png](file:///Volumes/GODAN/workspace/godan-tech/profile.png)
 - **Style:** 90s Original Video Animation (OVA) cell-shaded screenshot style, cyberpunk girl with purple hair highlights, muted vintage warm tones, and CRT screen scanline details.
 - **Visuals:** Highly detailed anime face, subtle retro lighting reflection, and slight cleavage as requested, maintaining a premium cybernetic geek aesthetic.
 
@@ -18,5 +18,5 @@
 
 1. Go to your GitHub profile settings.
 2. Click on your profile picture to edit/change it.
-3. Upload the image file located at: `/Volumes/T7/workspace/godan-tech/profile.png`.
+3. Upload the image file located at: `/Volumes/GODAN/workspace/godan-tech/profile.png`.
 4. Commit and push this repository to GitHub so that the asset is also safely stored in your repository history.
